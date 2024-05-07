@@ -1,0 +1,7 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+saved_LUT/1_SIP_reflectance_LUT.csv filter=lfs diff=lfs merge=lfs -text
+saved_LUT/2_PROSPECT_reflectance_LUT.csv filter=lfs diff=lfs merge=lfs -text
+saved_ML_model/1_Chla+b.zip filter=lfs diff=lfs merge=lfs -text
+saved_ML_model/2_Ccar.zip filter=lfs diff=lfs merge=lfs -text
+saved_ML_model/3_EWT.zip filter=lfs diff=lfs merge=lfs -text
+saved_ML_model/4_LMA.zip filter=lfs diff=lfs merge=lfs -text
