@@ -8,7 +8,7 @@
 
 * **Objectives:**
   * **_(1) Do our proposed transfer learning models for predicting leaf traits have better performance than other state-of-the-art statistical models like PLSR and GPR, and the pure RTMs?_**
-  * **_(2) Are the transfer learning models more transferable across different geographic locations, PFTs, and seasons than other models? What are the capabilities of the PRISMA data in quantifying seasonal variations of plant traits at large scales?_** 
+  * **_(2) Are the transfer learning models more transferable across different geographic locations, PFTs, and seasons than other models?_** 
 * **Conclusions:**
   * Numerous models have been developed to predict leaf traits based on leaf spectroscopy, each of which has its limitations. The absence of universally high-performing, transferable, and stable models across different domains hinder our ability to quantify and comprehend spatiotemporal variations in leaf traits and their responses to environmental changes and biodiversity in terrestrial ecosystems. 
   * In this study, we ensembled three types of datasets, with significant variability in leaf traits and leaf spectra across different locations, PFTs, and seasons. Our proposed transfer learning models, incorporating domain knowledge from RTMs and limited observational data, achieved better predictive performance compared to other statistical models and pure RTMs.
