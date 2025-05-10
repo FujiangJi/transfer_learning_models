@@ -43,38 +43,38 @@
     </colgroup>
     <thead>
       <tr>
-        <th>Leaf traits/ datasets</th>
-        <th>Spectro-radiometers</th>
-        <th>Spatial dataset</th>
-        <th>PFT dataset</th>
-        <th>Temporal dataset</th>
+        <th style="text-align: center;">Leaf traits/ datasets</th>
+        <th style="text-align: center;">Spectro-radiometers</th>
+        <th style="text-align: center;">Spatial dataset</th>
+        <th style="text-align: center;">PFT dataset</th>
+        <th style="text-align: center;">Temporal dataset</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><b>Chla+b (µg/cm<sup>2</sup>)</b></td>
-        <td>ASD FieldSpec 3/4/Pro</td>
+        <td style="text-align: center;"><b>Chla+b (µg/cm<sup>2</sup>)</b></td>
+        <td style="text-align: center;">ASD FieldSpec 3/4/Pro</td>
         <td>&bull; <b>1600</b> samples. 8 sites (200 samples for each site).<br>&bull; Foreoptic type: integrating sphere, leaf clip, and contact probe.</td>
         <td>&bull; <b>3000</b> samples. DBF, CPR, GRA (1000 samples each).<br>&bull; Foreoptic type: integrating sphere, leaf clip, contact probe.</td>
         <td>&bull; <b>608</b> samples.<br>&bull; Early: 71;<br>&bull; Peak: 278;<br>&bull; Post-peak: 259<br>&bull; Foreoptic: integrating sphere.</td>
       </tr>
       <tr>
-        <td><b>Ccar (µg/cm<sup>2</sup>)</b></td>
-        <td>ASD FieldSpec 3/4/Pro</td>
+        <td style="text-align: center;"><b>Ccar (µg/cm<sup>2</sup>)</b></td>
+        <td style="text-align: center;">ASD FieldSpec 3/4/Pro</td>
         <td>&bull; <b>1000</b> samples. 5 sites.<br>&bull; Foreoptic: integrating sphere, leaf clip.</td>
         <td>&bull; <b>2100</b> samples. DBF, CPR, GRA (700 each).<br>&bull; Foreoptic: integrating sphere, leaf clip, contact probe.</td>
         <td>&bull; <b>634</b> samples.<br>&bull; Early: 71;<br>&bull; Peak: 278;<br>&bull; Post-peak: 285;<br>&bull; Foreoptic: integrating sphere.</td>
       </tr>
       <tr>
-        <td><b>EWT (g/m<sup>2</sup>)</b></td>
-        <td>SVC HR-1024i</td>
+        <td style="text-align: center;"><b>EWT (g/m<sup>2</sup>)</b></td>
+        <td style="text-align: center;">SVC HR-1024i</td>
         <td>&bull; <b>400</b> samples. 4 sites.<br>&bull; Foreoptic: integrating sphere, leaf clip.</td>
         <td>&bull; <b>540</b> samples. DBF, GRA, CPR.<br>&bull; Foreoptic: integrating sphere, leaf clip.</td>
-        <td>N/A</td>
+        <td style="text-align: center;">N/A</td>
       </tr>
       <tr>
-        <td><b>LMA (g/m<sup>2</sup>)</b></td>
-        <td>ASD FieldSpec 3/4/Pro</td>
+        <td style="text-align: center;"><b>LMA (g/m<sup>2</sup>)</b></td>
+        <td style="text-align: center;">ASD FieldSpec 3/4/Pro</td>
         <td>&bull; <b>4800</b> samples. 12 sites.<br>&bull; Foreoptic: integrating sphere, leaf clip, contact probe.</td>
         <td>&bull; <b>1400</b> samples. 7 PFTs (200 each).<br>&bull; Foreoptic: integrating sphere, leaf clip, contact probe.</td>
         <td>&bull; <b>626</b> samples.<br>&bull; Early: 278;<br>&bull; Peak: 303;<br>&bull; Post-peak: 45;<br>&bull; Foreoptic: integrating sphere.</td>
