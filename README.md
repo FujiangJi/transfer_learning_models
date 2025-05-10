@@ -35,16 +35,16 @@
 <div align="center">
   <table>
     <colgroup>
+      <col style="width: 10%;">
       <col style="width: 15%;">
-      <col style="width: 20%;">
       <col style="width: 25%;">
-      <col style="width: 20%;">
-      <col style="width: 20%;">
+      <col style="width: 25%;">
+      <col style="width: 25%;">
     </colgroup>
     <thead>
       <tr>
         <th>Leaf traits/ datasets</th>
-        <th>Spectroradiometers</th>
+        <th>Spectro-radiometers</th>
         <th>Spatial dataset</th>
         <th>PFT dataset</th>
         <th>Temporal dataset</th>
