@@ -37,9 +37,9 @@
     <colgroup>
       <col style="width: 10%;">
       <col style="width: 10%;">
-      <col style="width: 25%;">
-      <col style="width: 25%;">
-      <col style="width: 30%;">
+      <col style="width: 20%;">
+      <col style="width: 20%;">
+      <col style="width: 40%;">
     </colgroup>
     <thead>
       <tr>
