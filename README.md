@@ -12,7 +12,7 @@
 </div>
 
 <p align='center'>
-  <a href="https://github.com/FujiangJi/transfer_learning_models"><img alt="Pape" src="https://img.shields.io/badge/TPAMI-Paper-6D4AFF?style=for-the-badge" /></a>
+  <a href="https://doi.org/10.1016/j.rse.2025.114818"><img alt="Pape" src="https://img.shields.io/badge/TPAMI-Paper-6D4AFF?style=for-the-badge" /></a>
 </p>
 
 ## Summary
