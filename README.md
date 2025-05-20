@@ -198,9 +198,9 @@ _Navigate to the directory **[src_code](src_code)** and execute the code in the 
 In case you use our framework and code in your research, Please cite our paper:
 * If you have any questions, please feel free to reach me at fujiang.ji@wisc.edu.
   ```
-  Ji,F.; Li, F.; Dashti, H.; Hao, D.; Townsend, P. A.; Zheng, T.; You, H.; Chen, M. 
+  Ji, F., Li, F., Dashti, H., Hao, D., Townsend, P.A., Zheng, T., You, H., Chen, M., 2025. 
   Leveraging transfer learning and leaf spectroscopy for leaf trait prediction with broad 
-  spatial, species, and temporal applicability. 2025. (Manuscript submitted, DOI forthcoming).
+  spatial, species, and temporal applicability. Remote Sens Environ 326, 114818. https://doi.org/10.1016/J.RSE.2025.114818.
   ```
 
 ## Contact
